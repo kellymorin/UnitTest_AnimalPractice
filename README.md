@@ -1,15 +1,8 @@
 # Testing the Animals
 
-> **Note:** This code exercise will be part of a live coding session with the instructor. Feel free to try it on your own beforehand and come to class with questions, or just wait until live coding starts.
-
 ## Setup
 
-```
-mkdir -p ~/workspace/python/exercises/testing && cd $_
-touch animal.py
-```
-
-1. Copy the contents of [animals.py](./assets/animal.py) into the file you just created.
+Copy the contents of [animals.py](./assets/animal.py) into the file you just created.
 
 ## Overview
 
